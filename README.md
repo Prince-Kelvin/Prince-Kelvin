@@ -3,10 +3,8 @@
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 - <b> Contact Centre Data Analyzed (Power BI & SQL)</b>
-  - [Power BI Visualization](https://github.com/prince-kelvin)
+  - [Power BI Visualization](https://github.com/Prince-Kelvin/Power-BI-Visualization/blob/main/README.md)
     
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📺 Popular YouTube Videos</h2>
 
