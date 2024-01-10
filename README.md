@@ -1,10 +1,10 @@
 <h1>Hi, I'm Prince Kelvin! <br/><a href="https://github.com/Prince-Kelvin">Data Analyst</a>, <a href="[(https://www.linkedin.com/in/prince-k-samuel-0438aa29b/)/">Business Analyst </a>, <a href="https://www.youtube.com/channel/UCguIc-2YiktGo63Bv6n5nng">YouTube</a></h1>
 
-<h2>👨‍💻 Data Analytics Projects:</h2>
+<h2>Data Analytics Projects:</h2>
 
 - <b> Contact Centre Data Analyzed (Power BI & SQL)</b>
   - [Power BI Visualization](https://github.com/Prince-Kelvin/Power-BI-Visualization/blob/main/README.md)
-    
+- <b> Housing Data Analysis (Power BI & SQL)</b>
 
 <h2>📺 Popular YouTube Videos</h2>
 
