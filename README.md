@@ -5,6 +5,7 @@
 - <b> Contact Centre Data Analyzed (Power BI & SQL)</b>
   - [Power BI Visualization](https://github.com/Prince-Kelvin/Power-BI-Visualization/blob/main/README.md)
 - <b> Housing Data Analysis (Power BI & SQL)</b>
+  - https://github.com/Prince-Kelvin/Housing-Data-Analysis
 
 <h2>📺 Popular YouTube Videos</h2>
 
