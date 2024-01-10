@@ -9,6 +9,7 @@
  
 <h2> Certification </h2>
 - [Scrum Master Certification](https://www.scrum-institute.org/certifications/Scrum-Institute.Org-SMAC41864c5394-14114840586669.pdf).
+
 - [Comprehensive Course On Oracle SQL Concepts And Commands](https://www.educba.com/certificate/?c=PNG0UWWFC)
 
 <h2>📺 Popular YouTube Videos</h2>
