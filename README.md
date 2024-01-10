@@ -19,17 +19,13 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Prince Kelvin | YouTube" width="22px" src="https://www.youtube.com/channel/UCguIc-2YiktGo63Bv6n5nng" />][youtube]
-[<img align="left" alt="Prince Kelvin | Twitter" width="22px" src="https://twitter.com/psamkelv" />][twitter]
-[<img align="left" alt="Prince Kelvin | LinkedIn" width="22px" src="https://www.linkedin.com/in/prince-k-samuel-0438aa29b/" />][linkedin]
+<a href="https://twitter.com/psamkelv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="psamkelv" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prince-k-samuel-0438aa29b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince-k-samuel" height="30" width="40" /></a>
+</p>
 
-
-[twitter]: https://twitter.com/psamkelv
-[youtube]: https://www.youtube.com/channel/UCguIc-2YiktGo63Bv6n5nng
-[linkedin]: https://www.linkedin.com/in/prince-k-samuel-0438aa29b
 
 <!--
-**prince-kelvin/Prince-kelvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**prince-kelvin/Profile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
