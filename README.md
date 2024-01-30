@@ -1,4 +1,4 @@
-<h1>Hi, I'm Prince Kelvin! <br/><a href="https://github.com/Prince-Kelvin">Data Analyst</a>, <a href="[(https://www.linkedin.com/in/prince-k-samuel-0438aa29b/)/">Business Analyst </a>, <a href="https://www.youtube.com/channel/UCguIc-2YiktGo63Bv6n5nng">YouTube</a></h1>
+<h1>Hi, I'm Prince Kelvin! <br/><a href="https://github.com/Prince-Kelvin">Data Analyst</a>, <a href="[(https://www.linkedin.com/in/prince-k-samuel-0438aa29b/)/">Business Analyst </a>, <a href="https://www.youtube.com/@psamkelv">YouTube</a></h1>
 
 <h2>Data Analytics Projects:</h2>
 
